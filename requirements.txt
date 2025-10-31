@@ -1,0 +1,5 @@
+pygame>=2.5.0
+
+# Optional: LLM support for chat (set OPENAI_API_KEY)
+openai>=1.0.0
+python-dotenv>=1.0.0

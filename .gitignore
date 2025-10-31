@@ -1,0 +1,60 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+env/
+venv/
+ENV/
+.venv/
+build/
+dist/
+*.egg-info/
+.eggs/
+pip-wheel-metadata/
+
+# Unit test / coverage reports
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+.tox/
+
+# Type checkers / linters
+.mypy_cache/
+.pytype/
+.ruff_cache/
+
+# Logs
+*.log
+
+# dotenv
+.env
+.env.*
+
+# IDE / Editor
+.vscode/
+.idea/
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Caches
+.cache/
+
+# Project-specific
+# Local saves are stored in HOME as .pixelgotchi_save.json, but ignore any stray saves here just in case
+.pixelgotchi_save.json
+*.sav
+*.tmp
+*.bak
+
+# Python version managers
+.python-version

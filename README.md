@@ -1,4 +1,4 @@
-# Pixelgotchi
+## Pixelgotchi
 
 A tiny, pixel-styled Tamagotchi-like desktop pet built with Python and Pygame. Pixelgotchi lives in a crisp low‑res world, has needs and moods, learns from your chat, and reacts with expressive, pixelated emotions.
 
@@ -148,4 +148,4 @@ pixelgotchi/
 
 ## License
 
-MIT (or your preferred license). Let me know and I’ll add the file.
+MIT
